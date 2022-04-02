@@ -8,7 +8,7 @@ First off you need to get a "exploit", see the [exploits](#exploits) section.
 Then you simply execute this code in the executor:
 
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Malte0621/mutils/master/source'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Malte0621/MUtils-Public/main/source'))()
 ```
 ## Exploits
 Exploits are utilities for the Roblox Game Client that allow users
